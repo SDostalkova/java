@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=plan
+comment0.target=PrikazDej(HerniPlan)
+comment0.text=\r\n\ Konstruktor\ t\u0159\u00EDdy\r\n
+comment1.params=parametry
+comment1.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment1.text=\r\n\ t\u011Blo\ p\u0159\u00EDkazu\ dej\r\n\ p\u0159\u00EDkaz\ dej\ se\ skl\u00E1d\u00E1\ ze\ 3\ \u010D\u00E1st\u00ED\ -\ p\u0159\u00EDkaz\ -\ v\u011Bc\ -\ postava\r\n\ pokud\ v\ m\u00EDstnosti\ nen\u00ED\ osoba,\ kterou\ chceme\ n\u011Bco\ d\u00E1t\ -\ vyp\u00ED\u0161e\ se\ \r\n\ pokud\ nem\u00E1m\ v\u011Bc\ v\ batohu,\ kterou\ chci\ p\u0159edat\ -\ vyp\u00ED\u0161e\ se\ \r\n\ pokud\ v\u011Bc,\ kterou\ nab\u00EDz\u00EDm,\ je\ v\u011Bc\u00ED,\ kterou\ osoba\ chce,\ odstran\u00ED\ se\ v\u011Bc\ z\ batohu\ \r\n\ pot\u00E9\ se\ vyp\u00ED\u0161e\ \u0159e\u010D\ postavy,\ bu\u010F\ po\ nebo\ p\u0159ed\ v\u00FDm\u011Bnou\ ,\ podle\ toho\ jestli\ v\u00FDm\u011Bna\ prob\u011Bhla\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getNazev()
+comment2.text=\r\n\ \ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\r\n\ \ \r\n\ \ @\ return\ nazev\ prikazu\r\n
+numComments=3

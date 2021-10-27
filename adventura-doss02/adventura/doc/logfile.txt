@@ -1,0 +1,65 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_241\bin\javadoc.exe
+-sourcepath
+C:\Users\dosta\Desktop\adventuramoje
+-source
+1.8
+-classpath
+C:\Users\dosta\Documents\škola VŠE\java\blueJ\bin\lib\bluejcore.jar;C:\Users\dosta\Documents\škola VŠE\java\blueJ\bin\lib\junit-4.8.2.jar;C:\Users\dosta\Desktop\adventuramoje
+-d
+C:\Users\dosta\Desktop\adventuramoje\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Users\dosta\Documents\škola VŠE\java\blueJ\bin\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+-doctitle
+adventuramoje
+-windowtitle
+adventuramoje
+-author
+-version
+-nodeprecated
+-package
+-encoding
+UTF-8
+-charset
+UTF-8
+-link
+http://download.oracle.com/javase/6/docs/api/
+uiText
+main
+logika
+<---- end of javadoc command ---->
+javadoc: error - The -encoding option may be specified no more than once.
+Usage: javadoc [options] [packagenames] [sourcefiles] [@files]
+  -overview <file>                 Read overview documentation from HTML file
+  -public                          Show only public classes and members
+  -protected                       Show protected/public classes and members (default)
+  -package                         Show package/protected/public classes and members
+  -private                         Show all classes and members
+  -help                            Display command line options and exit
+  -doclet <class>                  Generate output via alternate doclet
+  -docletpath <path>               Specify where to find doclet class files
+  -sourcepath <pathlist>           Specify where to find source files
+  -classpath <pathlist>            Specify where to find user class files
+  -cp <pathlist>                   Specify where to find user class files
+  -exclude <pkglist>               Specify a list of packages to exclude
+  -subpackages <subpkglist>        Specify subpackages to recursively load
+  -breakiterator                   Compute first sentence with BreakIterator
+  -bootclasspath <pathlist>        Override location of class files loaded
+                                   by the bootstrap class loader
+  -source <release>                Provide source compatibility with specified release
+  -extdirs <dirlist>               Override location of installed extensions
+  -verbose                         Output messages about what Javadoc is doing
+  -locale <name>                   Locale to be used, e.g. en_US or en_US_WIN
+  -encoding <name>                 Source file encoding name
+  -quiet                           Do not display status messages
+  -J<flag>                         Pass <flag> directly to the runtime system
+  -X                               Print a synopsis of nonstandard options and exit
+
+1 error

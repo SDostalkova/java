@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=plan
+comment0.target=PrikazSeber(HerniPlan)
+comment0.text=\r\n\ Konstruktor\ t\u0159\u00EDdy\r\n
+comment1.params=parametry
+comment1.target=java.lang.String\ provedPrikaz(java.lang.String[])
+comment1.text=\r\n\ t\u011Blo\ p\u0159\u00EDkazu\ seber\r\n\ zjist\u00ED\ zda\ je\ v\ batohu\ m\u00EDsto\ na\ sb\u00EDranou\ v\u011Bc,\ pokud\ nen\u00ED\ -\ hra\ skon\u010D\u00ED\ -\ batoh\ je\ p\u0159epln\u011Bn\ a\ prasnul\ ->\ ztr\u00E1ta\ v\u011Bc\u00ED\ nem\u016F\u017Ee\u0161\ pokra\u010Dovat\r\n\ kdy\u017E\ je\ v\ batohu\ m\u00EDsto\ tak\ zjist\u00ED\ zda\ v\u011Bc,\ kterou\ chceme\ sebrat,\ v\ m\u00EDstnosti\ je\r\n\ pokud\ je\ odebere\ se\ z\ m\u00EDstnosti\ a\ p\u0159id\u00E1\ se\ do\ batohu\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNazev()
+comment2.text=\r\n\ \ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\r\n\ \ \r\n\ \ @\ return\ nazev\ prikazu\r\n
+numComments=3

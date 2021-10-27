@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DotazyDoTestu()
+comment0.text=\r\n\ \ Konstruktor\ ....\r\n
+comment1.params=otazka
+comment1.target=java.lang.String\ odpovez(java.lang.String)
+comment2.params=odpoved
+comment2.target=void\ pridejOdpoved(java.lang.String)
+numComments=3
